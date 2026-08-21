@@ -218,8 +218,6 @@ deteccion-comercio-informal-scz/
 ├── datos/
 │   └── muestra/                    # muestra chica versionada (imágenes + labels)
 ├── informe/                        # Entregable A
-│   ├── main.tex                    # fuente LaTeX (pdfLaTeX / Overleaf)
-│   ├── main.pdf                    # compilado
 │   └── figuras/
 ├── notebooks/
 │   ├── entrenamiento_completo.ipynb   # notebook original del experimento (Colab)
