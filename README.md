@@ -149,7 +149,7 @@ En `datos/muestra/` hay 16 imágenes de ejemplo con sus etiquetas, versionadas e
 ### 3. Preparación de los datos
 
 ```bash
-python src/preparar_datos.py --crudo datos/crudo --salida datos/dataset_scz_yolo
+python src/preparar_datos.py --origen datos/crudo --salida datos/dataset_scz_yolo
 ```
 
 Arma la partición 70/20/10 con semilla 0 y escribe `datos/dataset_scz_yolo/scz_data.yaml` con **rutas relativas** al repositorio. La plantilla del esquema de 9 clases está en [`configs/scz_data.yaml`](configs/scz_data.yaml). `src/train.py` ejecuta este paso por su cuenta si el dataset todavía no existe.
