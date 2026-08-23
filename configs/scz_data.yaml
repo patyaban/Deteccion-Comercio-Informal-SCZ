@@ -1,4 +1,4 @@
-path: /content/dataset_scz_yolo
+path: datos/dataset_scz_yolo
 train: images/train
 val: images/val
 test: images/test
