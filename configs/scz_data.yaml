@@ -1,0 +1,14 @@
+path: /content/dataset_scz_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: car
+  1: van
+  2: truck
+  3: pedestrian
+  4: person_sitting
+  5: cyclist
+  6: street_vendor
+  7: street_stall
+  8: motorbike
