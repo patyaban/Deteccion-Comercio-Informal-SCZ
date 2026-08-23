@@ -266,7 +266,6 @@ Las carpetas `modelos/`, `datos/crudo/`, `datos/dataset_scz_yolo/`, `runs/` y `s
 
 ## Licencias
 
-- **Código de este repositorio:** MIT (ver [`LICENSE`](LICENSE)).
 - **Imágenes del dataset propio:** autoría del equipo, distribuidas para uso académico.
 - **KITTI:** CC BY-NC-SA 3.0 — uso no comercial.
 - **Ultralytics YOLO11:** AGPL-3.0. Los pesos derivados heredan esa licencia.
